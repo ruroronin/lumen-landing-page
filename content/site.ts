@@ -32,6 +32,12 @@ export const site = {
     back: "← Back",
   },
 
+  // Rendered as: {copyright} · <a href="mailto:{email}">{email}</a>
+  footer: {
+    copyright: "© 2026 Cursed Alley",
+    email: "hello@uselumen.dev",
+  },
+
   // Optional dashboard screenshot. null = slot renders nothing.
   // Example: { src: "/dashboard.png", alt: "...", width: 1600, height: 1000 }
   screenshot: null as { src: string; alt: string; width: number; height: number } | null,
