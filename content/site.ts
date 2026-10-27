@@ -30,8 +30,6 @@ export const site = {
   privacy: {
     title: "Privacy policy",
     back: "← Back",
-    // One string per paragraph.
-    body: ["[Privacy policy text — Ricardo to write]"],
   },
 
   // Optional dashboard screenshot. null = slot renders nothing.

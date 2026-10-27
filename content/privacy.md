@@ -1,7 +1,7 @@
 <!-- Ricardo writes this. Markdown: ## headings, lists, **bold**, [links](https://…). -->
 <!-- The page title comes from site.privacy.title in content/site.ts — don't add a # heading here. -->
 
-**Last updated: [26/10/2026]**
+**Last updated: 26/10/2026**
 
 ### Who we are
 
